@@ -21,7 +21,7 @@ Please make sure you have Docker and docker-compose installed in your machine. P
 1. Clone this repository :
 
 ```bash
-git clone https://github.com/Elvincth/turbo-strapi-nextjs
+git clone https://github.com/datduyng/project-starter-kit
 ```
 
 2. Change directory
