@@ -90,9 +90,9 @@ This turborepo uses [Yarn](https://classic.yarnpkg.com/lang/en/) as a package ma
 
 ### Apps and Packages
 
-- `frontend`: a [Next.js](https://nextjs.org) app
+- `web`: a [Next.js](https://nextjs.org) app
 - `backend`: [Strapi](https://strapi.io/) app
-- `ui`: a stub React component library currently used by `frontend` application
+- `ui`: a stub React component library currently used by `web` application
 - `config`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
 - `tsconfig`: `tsconfig.json`s used throughout the monorepo
 
