@@ -7,14 +7,14 @@
     "packages/*"
   ],
   "scripts": {
-    "build": "turbo run build",
+    "build": "turbo run build", 
     "dev": "turbo run dev --parallel & turbo run develop",
     "dev:docker": "docker-compose up -d",
     "lint": "turbo run lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {
-    "prettier": "^2.5.1",
+    "prettier": "^2.8.8",
     "turbo": "latest"
   },
   "turbo": {
